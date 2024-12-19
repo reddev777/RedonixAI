@@ -94,7 +94,7 @@
   
   .chat-container:hover {
     transform: scale(1.05);
-    box-shadow: 0 0 25px rgba(255, 0, 0, 0.9), 0 0 50px rgba(255, 0, 0, 0.7);
+    box-shadow: 0 0 25px hwb(0 0% 0% / 0.9), 0 0 50px rgba(255, 0, 0, 0.7);
   }
   
   /* Keyframes for the moving glow */
